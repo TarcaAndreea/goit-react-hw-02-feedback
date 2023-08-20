@@ -1,0 +1,13 @@
+.button {
+  font-size: 26px;
+  margin-right: 10px;
+  border: none;
+  cursor: pointer;
+  text-transform: capitalize;
+}
+.buttonSection {
+  padding-left: 40px;
+}
+.button:hover {
+  background-color: aqua;
+}
